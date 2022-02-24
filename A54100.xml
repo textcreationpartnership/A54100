@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of that glorious martyred King Charles I being a brief description of his religious reign, from his coronation to his unhappy death : wherein is laid open, 1. His outward actions, 2. His piety, 3. His zeal to Gods ordinances, 4. His wisdom, 5. His justice, 6. His mercy, 7. His humilty [sic], 8. His bounty, 9. His wonderful patience / by W.P. Esq.</title>
+            <author>W. P., Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54100</idno>
+            <idno type="STC">Wing P125</idno>
+            <idno type="STC">ESTC R5376</idno>
+            <idno type="EEBO-CITATION">13084382</idno>
+            <idno type="OCLC">ocm 13084382</idno>
+            <idno type="VID">97283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of that glorious martyred King Charles I being a brief description of his religious reign, from his coronation to his unhappy death : wherein is laid open, 1. His outward actions, 2. His piety, 3. His zeal to Gods ordinances, 4. His wisdom, 5. His justice, 6. His mercy, 7. His humilty [sic], 8. His bounty, 9. His wonderful patience / by W.P. Esq.</title>
+                  <author>W. P., Esq.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97283:1"/>
+            <pb facs="tcp:97283:1"/>
+            <p>THE CHARACTER Of That Glorious Martyred King, CHARLES I: BEING A Brief Deſcription of His Religious <hi>Reign,</hi> from his Coronation to his unhappy Death.</p>
+            <p>Wherein is laid open,
+<list>
+                  <item>1. His outward Actions.</item>
+                  <item>2. His Piety.</item>
+                  <item>3. His Zeal to Gods Ordi<g ref="char:EOLhyphen"/>nances.</item>
+                  <item>4. His Wiſdom.</item>
+                  <item>5. His Juſtice.</item>
+                  <item>6. His Mercy.</item>
+                  <item>7. His Humilty.</item>
+                  <item>8. His Bounty.</item>
+                  <item>9. His wonderful Patience.</item>
+               </list>
+            </p>
+            <p>By W: P: <abbr>Eſq</abbr>
+            </p>
+            <q>
+               <bibl>Heb. 12.1, 2.</bibl> Let us run with Patience the Race that is ſet before us; looking unto Jeſus the Author and finiſher of our Faith; who for the Joy that was ſet before him, endured the Croſse and diſpiſed the ſhame, and is ſet at the right hand of the Throne of God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. B.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:97283:2"/>
+            <pb n="1" facs="tcp:97283:2"/>
+            <head>The true Character of a Glorious KING.</head>
+            <head type="sub">Firſt, for his outward Actions.</head>
+            <p>THe beſt pulſe to diſcover the inward temper, is by his outward Actions; he was alwaies Grave, Serious, and deliberate, and made them bear for the moſt part the impreſſions of Wiſdom, piety and a compoſed ſettled<g ref="char:EOLhyphen"/>neſs upon them; yet when ever moving upon juſt Principles (Grounds of Reaſon, and Religion) to engage in any un<g ref="char:EOLhyphen"/>dertaking, he was moſt vigorouſly purſuing it, by all fair and hono<g ref="char:EOLhyphen"/>rable means; knowing that a good end ought not to be aimed at by bad actions: which made him bring the leaſt grain, as well as the greateſt wedge, the Circumſtancials as well as the eſſentials of all his actions to the higheſt; and never would allow (or at leaſt leaſt maintain) the moſt pale-faced, modeſt, inſinuating errour in any action; but ever accounted it his glory to confeſſe and reform it when detected, rather then maintain it.</p>
+            <p>And in regard of his private indulgences to himſelf, he ever wal<g ref="char:EOLhyphen"/>ked with all preciſeneſs, (as the Apoſtle commands 1 <hi>Theſſ.</hi> 5.) knowing, that though Religion alloweth great and juſt <hi>Liberties</hi> to humane Nature, it was not ſafe what he might, leſt it proved a perverſion of bleſſings into temptatious; for as he was (as I for<g ref="char:EOLhyphen"/>merly hinted) temperate and moderate in all things: as did ever appear in his Recreations, Expences, Apparel, Diet, and the like; for though he fed liberally, it was orderly, (twice a day only) and to the ſize of nature, not deſire, being never known to oppreſſe
+<pb n="2" facs="tcp:97283:3"/>but relieve it, by eating or drinking, and alwayes choſe rather to ſhorten then ſtretch his Teacher, or ſtrain the conjugal and Ma<g ref="char:EOLhyphen"/>trimonial knot that faſtned him to his Saviour in an Judivorceable Eſpouſal: but preſerved himſelf pure, chaſt and unſpotted of the world, as far as Humane nature (by the Power of Divine grace) was capable, knowing that the leaſt way given to any luſt or vice, will ſoon make it grow and ſpread, for (as all rivers fill by drops, and the firſt iſſue diſpoſes the Orifice to become greater) he ſtrove to nip every temptation in its firſt ſpringing, declining to come neer the brink of any Precipice, leſt he might ſlip or fall in by weakneſs or giddineſs, which the empty earineſs the (vain plea<g ref="char:EOLhyphen"/>ſures) of this world often intoxicate the brain with, like the beſt Wines taken in exceſs, which cauſe diſtempers inſtead of cheering Elevating the ſpirits.</p>
+            <p>Secondly, Of his Piety, wherein (eſpecially in his latter time) he was as much beyond Imitation, as Preſident, making much of his life (ſo far as it admitted of a Sequeſtration from his calling, as a King to that of a Chriſtian) but one continued Act of Regu<g ref="char:EOLhyphen"/>lated Devotion, both in regard of his retirements, (in that, <hi>non eſt vera religio, quae cum templo relinquitur,</hi> ſaith <hi>Lactantius</hi>) and more publick duties of Holineſs, wherein he was conſtant in paying his Debt of homage and out-rent to God in Prayers, both in his own houſe and the Church, (as the Exchequer wherein God is beſt pleaſed to reſerve them) when the Sacrifice is not raw and indi<g ref="char:EOLhyphen"/>geſted, (made up of the paſſions and humours of men,) but of the fineſt of the flower, the beſt of the herd, ſuch as the Church allowes; metal that will not fly upon the teſt, but ſuch as the publike ſtamp of Law had made currant, no embaſed, but the beſt coyn: for he ever worſhipped God in that way which the Papiſts call Hereſie, and Schiſmaticks Popery, ſeeming to take Heaven by a Holy violence, in the fervency of his Devotions, being as it were eaten up in his zeal to Gods houſe, and all his Holy Sacri<g ref="char:EOLhyphen"/>fices.</p>
+            <p>Thirdly, In zeal to Gods Ordinances, Temple and Miniſters, (like the lamps in the Sanctuary,) he alſo ſent forth a pure and holy flame, ſo as (with King <hi>David</hi>) it even conſumed and fed upon him, not be upon the Church, for he was alwayes ſo in<g ref="char:EOLhyphen"/>duſtrious to preſerve them in their purity, and glory, and to ad<g ref="char:EOLhyphen"/>vance
+<pb n="3" facs="tcp:97283:3"/>them in all juſt eſtimation and greatneſs, as he contemned his own intereſt (nay life) for them, when they came in competition, for would he have ſacrificed the Church, he had been the Churches Sacrifice: ſo as he made his life, and death but one continued Act of Protection to her, and hers, againſt all the open Invaſions and ſecret <hi>Stratagems</hi> of <hi>Atheiſmes</hi> and Hereſies.</p>
+            <p>Fourthly, His wiſdom, he was as an Angel of God, knowing both good and evil, avoiding the one as a Ship, or ſand that would ſink his veſſel, and uſing the other as the rudder or Stern to keep it in a ſafe courſe (knowing that a Kingdom is Eſtabliſhed by righ<g ref="char:EOLhyphen"/>teouſneſs.)</p>
+            <p>So as he might have been feared as well as admired for his know<g ref="char:EOLhyphen"/>ledge, had it not been tempered with an equal goodneſs: for he could dive inao the bottom of the moſt deep and hidden Magina<g ref="char:EOLhyphen"/>tion, unriver the moſt cloſe fix'd deſigns, ſee Effects in their cauſes (not Judging of cauſes, according to the vulgar errour, by their effects, nay he could pierce into the center of policy it ſelf, and have applyed ptudential remedies for the killing the Cocka<g ref="char:EOLhyphen"/>trice in the Egg, and have pluckt up by the roots thoſe dark (though to him known) deſigns in their Infancy, that have by their growth produced ſuch unhappy fruites, had he conſulted his Power, and not his Piety, but he alwayes ſoared upwards, as high as Heaven in his deliberations, and fetch'd his concluſions from thence (from Divine, not Humane Aphoriſmes) making Religion both the baſis and roof, reaſon and Humane providence as ſup<g ref="char:EOLhyphen"/>porters onely of his deſigns and undertakings: and would never own his preſervation to unlawfull ones, but truſted in God for all events, ever with <hi>Ely</hi> ſaying, they were good (though coun<g ref="char:EOLhyphen"/>ter to his deſigns) becauſe from above, and profitable when un<g ref="char:EOLhyphen"/>pleaſant.</p>
+            <p>Fifthly, His Juſtice, he was then truely informed (though Princes ſee by other eyes, truth ſometime reflected by falſe glaſſes) a <hi>Melchiſedeck</hi> without Father, Mother or other relations; con<g ref="char:EOLhyphen"/>ſidering no mans perſon but his cauſe, not of <hi>Caeſar's</hi> temper, who ſaid, <hi>Melior cauſa caſſii, ſed denegare bruto nihil poſſum:</hi> nor the Emperour, who having been once <hi>Niceas</hi> his Favorite, wrote to his Judges (in a cauſe depending between him and ano<g ref="char:EOLhyphen"/>ther) if <hi>Niceas</hi> cauſe be good, let Juſtice prevail, if bad, let favour
+<pb n="4" facs="tcp:97283:4"/>prevail, however let <hi>Niceas</hi> prevail, but ſtanding as the Center in the circumference, equally to diſtribute to all parts, and making the known Lawes the Rule and meaſure of his Actions, though he was ſometimes made to ſwerve from them by his Miniſters (be<g ref="char:EOLhyphen"/>ing drawn from his own Byaſs, and perverted from his ayme, by ſome ſecret rub in the way) to the ſatisfaction of unjuſt intreſts, yet when Juſtice was moſt corrupted in the ſtreams, it was ever pure in him the ſpring, for he erred ſometimes in Judgement as man, but never I am confident in affections as a Chriſtian, in that he was alwayes preventing all applications and addreſſes for relief, where convinced in himſelf of any publike injury, and never pro<g ref="char:EOLhyphen"/>tected any ſubordinate Miniſter from a Legal reſponſableneſs for any oppreſſion or irregularity, when called upon in a calm, not clamorous and tumultuous way, that he might ſeem to give, not have it extorted from him, and never accounted them his friends, who by any act of Juſtice made him many Enemies, for though I knew he erred in the high exorbitancies of the Council-table, I am perſwaded the ever went with the Authority of the beſt Judge<g ref="char:EOLhyphen"/>ments, that miſguided him through inconſideration, or abuſed his truſt, &amp; made their own falſe Coyn to paſſe under his publike Legal teſt and ſtamp, and was more ready to own his ſorrow, and make ſatisfaction for it, (when evinced of its Irregularity by Law, rea<g ref="char:EOLhyphen"/>ſon or Religion) then at the firſt to countenance it, or his late condeſcenſions and conſtant Profeſſions made appear, for he ever accounted his Diſtributive Juſtice as the richeſt Gem in his Dia<g ref="char:EOLhyphen"/>dem, as that by which <hi>the Throne of Kings are Eſtabliſhed,</hi> and the ſweet Harmony of peace preſerved: for when the boundaries of common intereſt are pluckt up: all is diſparked and laid open, ſo as the <hi>Kings Rights</hi> as well as the <hi>Subjects,</hi> will be treſpaſſed upon, by every rude and Rebellious hand, and every Beaſt of prey.</p>
+            <p>Sixthly, By his mercy; A flower growing alwayes in the Gar<g ref="char:EOLhyphen"/>lands (a ſtone ſhining moſt in the Crowns) of Princes, he was a Star of the firſt Magnitude, advancing it as a Child of his bowels (before that of his body) to be neareſt him in his Throne, yet diſpenſing it with that prudence as never to encourage ſin, but repentance in any, knowing there might be a cruel mercy, (the preſervation of one being many times the ruine of many)
+<pb n="5" facs="tcp:97283:4"/>as well as a mercileſſe crueltie in denying it to all offen<g ref="char:EOLhyphen"/>ders.</p>
+            <p>Seventhly, In humility, he was above himſelf, as much as he was exceeding others in all things elſe, for he ever ſet much to low an eſtimate upon his own abilities, though alwayes allowing a Juſt value (if not over weight) to other parts, he ever looked through the right end of the perſpective (examining them with Juſtice, if not partiality) but alwayes through the wrong upon himſelf, and by a Religious diffidence, many times unhappily em<g ref="char:EOLhyphen"/>braced and advanced others Counſels before his own Judgement, the onely reaſon any can Aſſign of thoſe little miſcarryages (warts rather then Wems) we have ſeen in his Government, though he no ſooner ſaw their Errour, but endeavoured their rectitude, nay he was ſo exalted in this vertue, and low in his own apprehenſions, (the richeſt are lying deepeſt in the mine,) that (like the Sun un<g ref="char:EOLhyphen"/>der a Cloud) he ſtrove to conceal as much of himſelf as he could, and never unveiled himſelf wholly for Oſtenation, but upon grounds of Piety and honour; So as he uſed that fine ſpun piece of his Meditations (which was too rich for the grave to conſume) onely as his Winding-ſheet, not owning it till his death, nor then, but in a Juſt Vindication of himſelf and Caves: ſo that, like <hi>Gedeons</hi> Lamp, he did clearly ſent forth his ſhine, till the earthen Picture of his body was broken.</p>
+            <p>Eighthly, In bounty, he was Tenacious, and (though many times liberal) never Profuſe, ſometime miſtaken in the merit of the receiver, but ſeldom ſuffering any ſervice to him to go unre<g ref="char:EOLhyphen"/>warded, by it both to incourage induſtry and vertue in others, and alſo to oblige the Perſon to a future graaitude, (benefits being one of the great and ſtrongeſt cords, which holds men active to their Duties (and he ſeldom gave to one, but he would oblige many by it, and where he denyed, did it with ſo much ſweetneſs and Artifice, as he uſually made the refuſal of the thing a gaining of the man.</p>
+            <p>Ninthly, In patience, he was a wonder, Impregnable to the moſt wicked and daring attempts of provocations, in making him<g ref="char:EOLhyphen"/>ſelf above Injures, (even that piece of earth the <hi>Spaniards</hi> ſpeak of which however trampled upon overcomes at laſt) and ſo immured and poſſeſſed his ſoul in that Divine grace, as neither Engine nor force could undermine or batter, leſſen or impair it.</p>
+            <pb n="6" facs="tcp:97283:5"/>
+            <p> This appears in that he could contend with the Axe, blunt the cruelty of his adverſaries, grow by cutting, and enjoy an inward ſe<g ref="char:EOLhyphen"/>curity in the greateſt outward ſtorms: ſo as we may truly ſay of him (as <hi>Caeſar</hi> of himſelf, and fortitude in a threatned ſhipwrack) The man might periſh, his <hi>Patience</hi> could not; for that ſhined the moſt glorious, under the greateſt difficulties and obſcurities, like Stars that many times borrow luſtre from the darkneſs of the night, making himſelf not only a perfect mirrour, but a a miracle of Paci<g ref="char:EOLhyphen"/>ence it ſelf; he not counting that a weakneſs in man, which was the Glory of Chriſt; a willing bearing and forgiving of injuries, ſtorms, and crucifixion it ſelf, <hi>Heb.</hi> 12.1, 2, 3.</p>
+            <p>Let us therefore ſtrive to write by his Copy, and by his example, both in life and death, to make the like advantages, both of Gods frowns and favours, though not ſo great an improvement, for what if I contemn the worlds pleaſure, and get above misfortunes even to a having nothing, and yet poſſeſſing all things) my conqueſt is not ſo great as his, becauſe my enemies were not ſo numerous and ſtrong; nor my loſſes and temptations ſo many; for a little veſſel may paſſe thoſe ſhallows and Rocks, that will ſinke and ſplit a tal<g ref="char:EOLhyphen"/>ler ſhip, which draws more water.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
